@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "wuyingAgent",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "wuyingAgent"
+                    ]
+                }
+            },
+            {
+                "name": "wuyingAgent/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "wuyingAgent"
+                    ]
+                }
+            }
+        ]
+    }
+}
