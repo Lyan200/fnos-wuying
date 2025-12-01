@@ -57,7 +57,7 @@ try {
 console.log('\n[build-combined] Combined dist ready at dist/. To run:');
 console.log('  cd dist && npm start');
 
-const packDir = path.join(root, 'fnnas.notepad')
+const packDir = path.join(root, 'fnnas.wuying')
 const packServerDir = path.join(packDir, 'app', 'server');
 run(`rm -rf ${packServerDir}`)
 run(`mkdir ${packServerDir}`)

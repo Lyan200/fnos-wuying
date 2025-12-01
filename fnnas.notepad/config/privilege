@@ -1,7 +1,0 @@
-{
-    "defaults": {
-        "run-as": "package"
-    },
-    "username": "fnnas.notepad",
-    "groupname": "fnnas.notepad"
-}

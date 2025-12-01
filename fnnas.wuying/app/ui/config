@@ -1,7 +1,7 @@
 {
     ".url": {
-        "fnnas.notepad.Application": {
-            "title": "Notepad",
+        "fnnas.wuying.Application": {
+            "title": "Wuying",
             "icon": "images/icon_{0}.png",
             "type": "url",
             "protocol": "http",

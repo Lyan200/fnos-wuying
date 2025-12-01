@@ -1,0 +1,10 @@
+appname=fnnas.wuying
+version=0.0.1
+desc=wuying agentbay 
+arch=x86_64
+display_name=Wuying
+maintainer=lyan200@qq.com
+distributor=lyan200@qq.com
+desktop_uidir=ui
+desktop_applaunchname=fnnas.wuying.Application
+source=thirdparty
